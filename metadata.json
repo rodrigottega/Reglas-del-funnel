@@ -1,0 +1,6 @@
+{
+  "name": "Ciarem",
+  "description": "Plataforma de agentes de IA para atención al cliente y manejo del funnel de ventas",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
